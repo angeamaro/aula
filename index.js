@@ -1,5 +1,10 @@
 console.log('Hello, Angel!')
 
-function soma( a, b){
-   let soma=    a+b;
+
+function produto( a, b){
+   let prod =  a*b;
+}
+
+function somar(b,x){
+    return b + x;
 }
